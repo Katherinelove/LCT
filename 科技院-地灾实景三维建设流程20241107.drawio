@@ -1,98 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="Page-1">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;DEM&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="2">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=3;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="180" y="727" width="150" height="54" as="geometry" />
+            <mxGeometry x="320" y="480" width="150" height="54" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;DOM&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="3">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=4;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="440" y="727" width="150" height="54" as="geometry" />
+            <mxGeometry x="550" y="480" width="150" height="54" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;泥石流沟口、部分沟道影像采集&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="4">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;泥石流重点地段影像采集&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="4">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=9;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="801" y="602" width="291" height="54" as="geometry" />
+            <mxGeometry x="790" y="362" width="291" height="54" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;立体卫星摄影&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="5">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=19;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="309" y="430" width="152" height="101" as="geometry" />
+            <mxGeometry x="430" y="240" width="152" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;无人机航空摄影&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="6">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=20;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="870" y="430" width="152" height="101" as="geometry" />
+            <mxGeometry x="859" y="240" width="152" height="51" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;MESH模型&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="7">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=26;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="751" y="727" width="173" height="54" as="geometry" />
+            <mxGeometry x="740" y="487" width="173" height="54" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="-QJdFKXYUfbJt9k9TEs7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8" target="2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;泥石流沟全流域影像采集&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="8">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=27;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="256" y="602" width="260" height="54" as="geometry" />
+            <mxGeometry x="376" y="362" width="260" height="54" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;建筑物白膜&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="9">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=32;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="982" y="727" width="150" height="54" as="geometry" />
+            <mxGeometry x="971" y="487" width="150" height="54" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;地理级实景三维&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="10">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=40;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="429" y="925" width="173" height="54" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;记录地灾防治信息&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="11">
-          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=46;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="970" y="925" width="173" height="54" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Connector" id="12">
-          <mxCell style="vsdxID=47;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1.0185185185185186;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5028901734104047;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9" target="11" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="12" as="offset" />
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Connector" id="13">
-          <mxCell style="vsdxID=44;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5066666666666667;exitY=1.0185185185185186;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5028901734104047;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3" target="10" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-13" as="offset" />
-              <Array as="points">
-                <mxPoint x="516" y="860.1099999999999" />
-                <mxPoint x="516" y="860.1099999999999" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Connector" id="14">
-          <mxCell style="vsdxID=43;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.49710982658959535;exitY=1.0185185185185186;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5028901734104047;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7" target="10" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-1" as="offset" />
-              <Array as="points">
-                <mxPoint x="837" y="860.1099999999999" />
-                <mxPoint x="515.49" y="860.1099999999999" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Connector" id="15">
-          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1.0185185185185186;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5028901734104047;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="10" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-1" as="offset" />
-              <Array as="points">
-                <mxPoint x="255" y="860.1099999999999" />
-                <mxPoint x="515.62" y="860.1099999999999" />
-              </Array>
-            </mxGeometry>
+            <mxGeometry x="680" y="620" width="173" height="54" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="Connector" id="16">
@@ -100,8 +57,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
               <Array as="points">
-                <mxPoint x="947" y="691.5" />
-                <mxPoint x="1057.38" y="691.5" />
+                <mxPoint x="936" y="451.5" />
+                <mxPoint x="1046.38" y="451.5" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -111,8 +68,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
               <Array as="points">
-                <mxPoint x="947" y="691.5" />
-                <mxPoint x="837.54" y="691.5" />
+                <mxPoint x="936" y="451.5" />
+                <mxPoint x="826.54" y="451.5" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -122,8 +79,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="12" as="offset" />
               <Array as="points">
-                <mxPoint x="386" y="551.05" />
-                <mxPoint x="386.01" y="551.05" />
+                <mxPoint x="506" y="311.04999999999995" />
+                <mxPoint x="506.01" y="311.04999999999995" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -136,28 +93,45 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="Connector" id="20">
-          <mxCell style="vsdxID=30;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1.0185185185185186;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="2" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-1" as="offset" />
-              <Array as="points">
-                <mxPoint x="386" y="693.96" />
-                <mxPoint x="255.44" y="693.96" />
-              </Array>
-            </mxGeometry>
+        <mxCell id="-QJdFKXYUfbJt9k9TEs7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QJdFKXYUfbJt9k9TEs7-23" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;卫星遥感&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="-QJdFKXYUfbJt9k9TEs7-23">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=19;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="391" y="130" width="230" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="Connector" id="21">
-          <mxCell style="vsdxID=31;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1.0185185185185186;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5066666666666667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="3" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="386" y="693.96" />
-                <mxPoint x="516.0699999999999" y="693.96" />
-              </Array>
-            </mxGeometry>
+        <mxCell id="-QJdFKXYUfbJt9k9TEs7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QJdFKXYUfbJt9k9TEs7-24" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1099" y="210" />
+              <mxPoint x="935" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;无人机航测与现场调查&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="-QJdFKXYUfbJt9k9TEs7-24">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=19;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="980" y="120" width="237" height="51" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;现场调查&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="背景" id="-QJdFKXYUfbJt9k9TEs7-31">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=20;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="1201" y="239" width="159" height="51" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-QJdFKXYUfbJt9k9TEs7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-QJdFKXYUfbJt9k9TEs7-24" target="-QJdFKXYUfbJt9k9TEs7-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1098" y="210" />
+              <mxPoint x="1281" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QJdFKXYUfbJt9k9TEs7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
